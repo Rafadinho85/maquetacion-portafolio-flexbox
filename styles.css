@@ -40,3 +40,16 @@
     font-weight: 900;
     font-size: 35px;
 }
+
+#menu ul{
+    display: flex;
+    
+}
+#menu ul li{
+    margin-left: 20px;
+    list-style: none;
+}
+#menu ul li a{
+    color: black;
+    text-transform: uppercase;
+}
